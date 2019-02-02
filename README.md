@@ -20,3 +20,4 @@ Usage: <code>python library2osm > output_filename.osm</code>
 * [Library types](http://www.biblev.no/biblioteknummer.html)
 * [Export feed](https://www.nb.no/baser/bibliotek/eksport/bb-full.xml) (updated Monday-Friday at 9pm)
 * [Example REST service](https://www.nb.no/BaseBibliotekSearch/rest/bibnr/NO-0030100)
+* [Permission from the National Library of Norway](https://forum.openstreetmap.org/viewtopic.php?pid=736860#p736860)
